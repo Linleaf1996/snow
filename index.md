@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来和我吵架
 
-You can use the [editor on GitHub](https://github.com/Linleaf1996/snow/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+你可以选择沉默，选择被喷，但是你不能欺负我.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
