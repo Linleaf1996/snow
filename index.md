@@ -5,26 +5,18 @@
 翻译： Every once in a while, you find someone who's iridescent, and when you do, nothing will ever compare.
 
 
-### Markdown
+### 关于吵架的具体安排
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+时间：2022.06.12 21:00
 
-- Bulleted
-- List
+方式：微信
 
-1. Numbered
-2. List
+主题：林一夫的委屈
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
