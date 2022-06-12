@@ -2,7 +2,8 @@
 
 你可以选择沉默，选择被喷，但是你不能欺负我.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+翻译： Every once in a while, you find someone who's iridescent, and when you do, nothing will ever compare.
+
 
 ### Markdown
 
